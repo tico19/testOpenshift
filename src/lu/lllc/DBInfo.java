@@ -1,7 +1,7 @@
 package lu.lllc;
 
 public class DBInfo {
-	static String host = "mysq2"; // In most cases you will use
+	static String host = "mysql2"; // In most cases you will use
 													// localhost
 	static String DBname = "sampledb";
 	static int port = 3306; // This is for MySQL
