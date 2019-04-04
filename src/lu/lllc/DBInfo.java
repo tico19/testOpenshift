@@ -1,15 +1,15 @@
 package lu.lllc;
 
 public class DBInfo {
-	static String host = "mysql-56-centos7"; // In most cases you will use
+	static String host = "mysq2"; // In most cases you will use
 													// localhost
-	static String DBname = "test";
+	static String DBname = "sampledb";
 	static int port = 3306; // This is for MySQL
 	static String mySQLdbURL = "jdbc:mysql://" + host + ":" + port + "/"
 			+ DBname;
 
-	static String user = "root";
-	static String password = "test";
+	static String user = "user6JL";
+	static String password = "AWA5x6XLAWpkgA1T";
 	
 	static String driver = "com.mysql.jdbc.Driver";
 
